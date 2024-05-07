@@ -1,5 +1,4 @@
-# VLSI-LAB-EXP-5
-# 5.SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+# 5.SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE.
 
 # AIM: 
 To simulate and synthesis finite state machine using VIVADO 2023.1
@@ -97,26 +96,15 @@ begin
  endcase
 end 
 endmodule
-
-
 ~~~
 
 # OUTPUT:
 
+<img width="605" alt="2024-06-05" src="https://github.com/21004601/VLSI-LAB-EXP-5/assets/146088220/d532abf1-f1fe-4118-b60a-fb2648c58354">
 
+# RESULT:
 
-
-
-
-
-
-----Type Verilog Code
-
-OUTPUT:
-
------Place a Waveform Generated from Xilinx ISE------------
-
-RESULT:
+THUS the finite state machine is simulated using VIVADO 2023.1 and the output is verified successfully.
 
 
 
