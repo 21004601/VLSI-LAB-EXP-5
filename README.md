@@ -101,6 +101,8 @@ endmodule
 # OUTPUT:
 
 <img width="605" alt="2024-06-05" src="https://github.com/21004601/VLSI-LAB-EXP-5/assets/146088220/d532abf1-f1fe-4118-b60a-fb2648c58354">
+<img width="962" alt="2024-05-07 (3)" src="https://github.com/21004601/VLSI-LAB-EXP-5/assets/146088220/8e3f18e7-6541-44b6-b936-7626cf73d335">
+
 
 # RESULT:
 
